@@ -1,6 +1,6 @@
 # 💊 Medicare Drug Prescriptions & Cost Analysis – 2023 🧠📈
 
-This project presents an intermediate-level data analytics case study using the **2023 Medicare Part D Prescriber Public Use File** (PUF). It aims to explore prescription costs, drug classes, demographic disparities, and public health trends in the U.S. using **Python (Pandas, Matplotlib, Seaborn)**.
+A full-stack data analytics and visualization project simulating real-world data analyst work in the healthcare industry, leveraging the ** 2023 Medicare Part D dataset..** using **Python (Pandas, Matplotlib, Seaborn)**.
 
 ---
 
